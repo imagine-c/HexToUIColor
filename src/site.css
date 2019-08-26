@@ -17,7 +17,7 @@ body {
 body,
 input {
   font: 300 18px/1.2 'Gotham SSm A', 'Gotham SSm B', sans-serif;
-  background: #aad454;
+  /* background: #aad454; */
 }
 a {
   text-decoration: none;
